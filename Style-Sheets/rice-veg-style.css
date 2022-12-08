@@ -1,0 +1,22 @@
+.Title {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(53, 52, 52);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline black;
+    text-shadow: 2px 2px 2px peru;
+    letter-spacing: 1px;
+}
+#rice-veg-picture {
+    width: 300px;
+    height: auto;
+    border-radius: 50px;
+}
+div.Description {
+    font-size: 15px;
+    text-align: left;
+    line-height: 1.7;
+    letter-spacing: 1px;
+    font-family:'Courier New', Courier, monospace;
+
+}
