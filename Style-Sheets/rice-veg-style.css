@@ -7,6 +7,9 @@
     text-shadow: 2px 2px 2px peru;
     letter-spacing: 1px;
 }
+body {
+    background-color: rgba(220, 20, 60, 0.613);
+}
 #rice-veg-picture {
     width: 300px;
     height: auto;
